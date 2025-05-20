@@ -188,5 +188,5 @@ This project is licensed under the **GNU GPL v2 or later**.
 
 ## 👨‍💻 Author
 
-**Developed by**: Your Name  
-**Email**: your.email@example.com
+**Developed by**: Nikhilesh Verma  
+**Email**: nikhileshkverma@gmail.com
